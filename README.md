@@ -47,7 +47,7 @@ text
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bella-cucina.git
+   git clone https://github.com/Ayesha-Emaan/bella-cucina.git
 Navigate to project directory:
 
 bash
