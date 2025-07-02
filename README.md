@@ -55,14 +55,14 @@ cd bella-cucina
 Open in your browser:
 
 Simply open index.html in any modern browser
-
+ 
 📝 Customization
-To customize this website for your restaurant:
+## To customize this website for your restaurant:
 
-Replace images in /images folder
-Update menu items in index.html
-Change color scheme in style.css (modify CSS variables)
-Update contact information in the Contact section
+-Replace images in /images folder
+-Update menu items in index.html
+-Change color scheme in style.css (modify CSS variables)
+-Update contact information in the Contact section
 
 📬 Contact
 For questions or customization requests:
